@@ -29,5 +29,26 @@ a:hover{
     padding: 30px;
 }
 
+.card-theme{
+    background-color: #191F26;
+    border: none;
+    border-radius: 2px;
+}
+
+.card-heading-theme{
+    color:#eee;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    padding: 12px;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+}
+
+.section-container{
+    padding: 30px;
+}
 
 
